@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1314-matrix-block-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/1314-matrix-block-sum) |
 | [2055-plates-between-candles](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2055-plates-between-candles) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1314-matrix-block-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/1314-matrix-block-sum) |
 | [2055-plates-between-candles](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2055-plates-between-candles) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Design
 |  |
@@ -66,4 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2055-plates-between-candles](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2055-plates-between-candles) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Greedy
+|  |
+| ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Sorting
+|  |
+| ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
