@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0118-pascals-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0304-range-sum-query-2d-immutable) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2055-plates-between-candles](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2055-plates-between-candles) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Greedy
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
