@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0704-binary-search) |
 | [2055-plates-between-candles](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2055-plates-between-candles) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Greedy
