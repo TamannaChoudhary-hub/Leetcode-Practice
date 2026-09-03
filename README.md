@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
