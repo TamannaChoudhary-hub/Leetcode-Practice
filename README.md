@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0118-pascals-triangle) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
