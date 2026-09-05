@@ -13,10 +13,8 @@ class Solution {
             return;
         }
         for (int i = 0; i < nums.length; i++) {
-            if (used[i])
-                continue;
-            if (i > 0 && nums[i] == nums[i - 1] && !used[i - 1])
-                continue;
+            if (used[i])continue;
+            if (i > 0 && nums[i] == nums[i - 1] && !used[i - 1])continue;
             used[i] = true;
             ds.add(nums[i]);
             solve(nums, used, ds, ans);
