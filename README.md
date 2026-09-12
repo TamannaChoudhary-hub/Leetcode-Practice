@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [2055-plates-between-candles](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2055-plates-between-candles) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
