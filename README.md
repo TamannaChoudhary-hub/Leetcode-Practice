@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0071-simplify-path](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [2055-plates-between-candles](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2055-plates-between-candles) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
