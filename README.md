@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0402-remove-k-digits) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0901-online-stock-span](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0901-online-stock-span) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -201,12 +202,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
