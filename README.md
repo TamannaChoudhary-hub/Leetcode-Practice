@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0402-remove-k-digits) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0090-subsets-ii) |
 ## Linked List
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
