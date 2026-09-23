@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0258-add-digits) |
