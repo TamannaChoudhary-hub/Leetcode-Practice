@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0989-add-to-array-form-of-integer) |
@@ -270,4 +271,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
