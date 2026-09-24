@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0402-remove-k-digits) |
+| [0709-to-lower-case](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0709-to-lower-case) |
 | [2055-plates-between-candles](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2055-plates-between-candles) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2559-count-vowel-strings-in-ranges) |
