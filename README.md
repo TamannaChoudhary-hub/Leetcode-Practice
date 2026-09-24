@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0402-remove-k-digits) |
 | [0709-to-lower-case](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0709-to-lower-case) |
 | [2055-plates-between-candles](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2055-plates-between-candles) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Binary Search
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 <!---LeetCode Topics End-->
