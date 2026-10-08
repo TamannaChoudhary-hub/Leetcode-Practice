@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2055-plates-between-candles](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2055-plates-between-candles) |
+| [2073-time-needed-to-buy-tickets](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2574-left-and-right-sum-differences) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0258-add-digits) |
+| [2073-time-needed-to-buy-tickets](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## Number Theory
 |  |
 | ------- |
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
