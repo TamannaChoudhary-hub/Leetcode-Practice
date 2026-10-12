@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0402-remove-k-digits) |
+| [0649-dota2-senate](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0649-dota2-senate) |
 | [0709-to-lower-case](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0709-to-lower-case) |
 | [2055-plates-between-candles](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2055-plates-between-candles) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0402-remove-k-digits) |
+| [0649-dota2-senate](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0649-dota2-senate) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
@@ -322,5 +324,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0649-dota2-senate) |
 | [2073-time-needed-to-buy-tickets](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
