@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0503-next-greater-element-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0901-online-stock-span](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0901-online-stock-span) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
