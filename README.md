@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1314-matrix-block-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/1314-matrix-block-sum) |
 | [1732-find-the-highest-altitude](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2055-plates-between-candles](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2055-plates-between-candles) |
 | [2073-time-needed-to-buy-tickets](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2073-time-needed-to-buy-tickets) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0989-add-to-array-form-of-integer) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0258-add-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## Number Theory
 |  |
@@ -325,5 +329,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0649-dota2-senate) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
