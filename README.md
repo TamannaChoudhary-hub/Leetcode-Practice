@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0622-design-circular-queue](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0622-design-circular-queue) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0649-dota2-senate) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
