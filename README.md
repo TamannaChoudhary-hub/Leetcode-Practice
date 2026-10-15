@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0525-contiguous-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0347-top-k-frequent-elements](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -353,12 +356,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
