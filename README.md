@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0930-binary-subarrays-with-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0739-daily-temperatures](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0901-online-stock-span) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
