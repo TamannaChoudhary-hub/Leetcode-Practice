@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -355,11 +356,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -375,4 +378,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
