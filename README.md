@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0622-design-circular-queue](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0622-design-circular-queue) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0402-remove-k-digits) |
 | [0606-construct-string-from-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0606-construct-string-from-binary-tree) |
 | [0649-dota2-senate](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0649-dota2-senate) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0606-construct-string-from-binary-tree) |
@@ -340,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Monotonic Stack
