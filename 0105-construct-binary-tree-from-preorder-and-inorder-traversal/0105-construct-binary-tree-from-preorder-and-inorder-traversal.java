@@ -4,7 +4,7 @@ class Solution {
     private Map<Integer, Integer> map = new HashMap<>();
 
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        preIndex=0;
+        
         for (int i = 0; i < inorder.length; i++) {
             map.put(inorder[i], i);
         }
