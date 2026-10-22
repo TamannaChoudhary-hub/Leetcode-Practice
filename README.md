@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0930-binary-subarrays-with-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0930-binary-subarrays-with-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
