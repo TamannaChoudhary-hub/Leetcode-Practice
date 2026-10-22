@@ -1,30 +1,43 @@
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-    private int preIndex = 0;
-    private Map<Integer, Integer> map = new HashMap<>();
-
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        
-        for (int i = 0; i < inorder.length; i++) {
-            map.put(inorder[i], i);
+        Map<Integer,Integer>inmap=new HashMap<>();
+        for(int i=0;i<inorder.length;i++){
+            inmap.put(inorder[i],i);
         }
-
-        return build(preorder, 0, inorder.length - 1);
+        TreeNode root=buildTree(preorder,0,preorder.length-1,inorder,0,inorder.length-1,inmap);
+        return root;
     }
+    public TreeNode buildTree(int[] preorder,int prestart,int preend,int[] inorder,int instart,int inend,Map<Integer,Integer> inmap) {
 
-    private TreeNode build(int[] preorder, int left, int right) {
-        if (left > right) {
-            return null;
-        }
+        if(prestart > preend || instart > inend) return null;
+        TreeNode root = new TreeNode(preorder[prestart]);
+        int inroot = inmap.get(root.val);
+        int numsleft = inroot - instart;
 
-        int rootVal = preorder[preIndex++];
-        TreeNode root = new TreeNode(rootVal);
+         root.left = buildTree(preorder,
+                              prestart + 1,
+                              prestart + numsleft,
+                              inorder, instart, inroot - 1, inmap);
 
-        int mid = map.get(rootVal);
-
-        root.left = build(preorder, left, mid - 1);
-        root.right = build(preorder, mid + 1, right);
-
+        root.right = buildTree(preorder,
+                               prestart + numsleft + 1,
+                               preend,
+                               inorder, inroot + 1, inend, inmap);
         return root;
     }
 }
