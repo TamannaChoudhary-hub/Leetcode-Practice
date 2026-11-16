@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0525-contiguous-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0989-add-to-array-form-of-integer) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0704-binary-search) |
 | [2055-plates-between-candles](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2055-plates-between-candles) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -238,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
