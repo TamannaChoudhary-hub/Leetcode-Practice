@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0509-fibonacci-number) |
