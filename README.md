@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0930-binary-subarrays-with-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0071-simplify-path) |
