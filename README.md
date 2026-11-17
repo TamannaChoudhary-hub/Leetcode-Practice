@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0258-add-digits) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [1314-matrix-block-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/1314-matrix-block-sum) |
