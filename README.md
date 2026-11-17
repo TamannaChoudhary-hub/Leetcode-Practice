@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0649-dota2-senate) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
