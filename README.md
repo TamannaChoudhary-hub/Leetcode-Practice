@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0056-merge-intervals) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0125-valid-palindrome) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
