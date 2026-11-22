@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0242-valid-anagram) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TamannaChoudhary-hub/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
